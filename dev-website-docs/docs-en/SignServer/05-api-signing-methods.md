@@ -1,4 +1,4 @@
-# API Methods
+# API Signing Methods
 
 - [Sign Arbitrary Data](#sign-arbitrary-data)
 - [Sign Raw Transaction](#sign-raw-transaction)
