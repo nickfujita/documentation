@@ -11,7 +11,7 @@ go get github.com/ontio/ontology
 
 Navigate to the local repository
 ```
-$GOPATH/src/github.com/ontio
+cd $GOPATH/src/github.com/ontio
 ```
 
 Install project dependencies
